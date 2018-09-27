@@ -1,0 +1,2 @@
+~~~~~~~~~Accumulator
+sync variable across all nodes
